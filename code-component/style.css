@@ -67,3 +67,8 @@
 .right-part a:hover {
   text-decoration: none;
 }
+
+/* Main section  */
+.item-container {
+  width: 100%;
+}
