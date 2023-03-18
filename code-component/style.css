@@ -1,0 +1,69 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.navbar-container {
+  width: 100%;
+  height: 78px;
+  color: #502314;
+  background-color: #f5ebdc;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-family: Flame, "Cooper Black", "Helvetica Neue", Helvetica, Arial,
+    sans-serif;
+}
+.left-part ul {
+  display: flex;
+}
+.left-part ul li {
+  list-style-type: none;
+  margin-left: 30px;
+  cursor: pointer;
+}
+.center-part img {
+  height: 60px;
+  cursor: pointer;
+}
+.right-part {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.card-Btn {
+  margin-right: 30px;
+  color: white;
+  border-radius: 50px;
+  padding: 5px 15px;
+  cursor: pointer;
+  background-color: #502314;
+}
+.signup-Btn {
+  margin-right: 30px;
+  color: white;
+  border-radius: 50px;
+  cursor: pointer;
+  padding: 5px 15px;
+  background-color: #d62300;
+}
+.right-part a {
+  color: #502314;
+  font-size: 14px;
+  margin: 0 30px;
+}
+.right-part i {
+  cursor: pointer;
+}
+.left-part ul li:hover {
+  color: #d62300;
+}
+.signup-Btn:hover {
+  background-color: #c12000;
+}
+.card-Btn:hover {
+  background-color: #622c1a;
+}
+.right-part a:hover {
+  text-decoration: none;
+}
