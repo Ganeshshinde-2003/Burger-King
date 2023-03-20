@@ -3,7 +3,7 @@
 
 ## Installation
 ### To use this website clone the repository to your local machine:
-   ```git clone https://github.com/[username]/burger-king-clone.git```
+   ```https://github.com/Ganeshshinde-2003/Burger-King.git```
    
 # Usage
 ### Once you have cloned the repository, open the index.html file in your browser to see the Burger King clone website.
