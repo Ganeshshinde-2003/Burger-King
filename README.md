@@ -7,3 +7,6 @@
    
 # Usage
 ### Once you have cloned the repository, open the index.html file in your browser to see the Burger King clone website.
+
+# Contributing
+### Contributions are welcome! If you would like to contribute to this project, please fork the repository and create a pull request with your changes.
