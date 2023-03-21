@@ -1,5 +1,5 @@
 # Burger King using HTML and CSS
-### This repository is a clone of the Burger King website created using HTML and CSS. It is intended to demonstrate the skills of the developer in creating a responsive website using these technologies.
+### This website is a Burger King clone made using HTML and CSS. It was created as part of a workshop held by our club Tech-Tribe to teach senior of Data Science  students how to build a website from scratch using these technologies. The website is designed to mimic the layout and style of the Burger King website.
 
 ## Installation
 ### To use this website clone the repository to your local machine:
